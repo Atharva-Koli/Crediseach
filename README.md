@@ -8,3 +8,4 @@ search and response done, app online. Fast api Live
 plan for Api, selection, security, swagger ui response validation 
 
 idk ,, why github isnot considering my commits in projects 
+there fore here i am comitng issuesi n reamde .md 
