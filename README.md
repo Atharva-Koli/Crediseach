@@ -10,4 +10,6 @@ plan for Api, selection, security, swagger ui response validation
 idk why GitHub is not considering my commits in projects 
 Therefore, here I am committing issues in README .md 
 
-Serp Api implemented and refined , search results refinrd 
+Serp Api implemented, search results refined 
+search api or rapid api, choices to be made tomorrow, 
+also env and infra worked upo for today 
